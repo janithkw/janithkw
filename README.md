@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Lover%20❤️;Cybersecurity%20Enthusiast🔐;ML%20Problem%20Solver🤖;Passionate%20Learner📘&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="Profile_pic.jpg" width="150" height="150" style="border-radius: 50%" alt="Janith Wanasinghe's Photo" />
-</p>
 
 ---
 

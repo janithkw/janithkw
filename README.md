@@ -15,7 +15,7 @@
 
 🧠 Interested in **Artificial Intelligence**, **Machine Learning**, and **Cybersecurity**.
 
-📊 **Current GPA:** `3.67`
+📊 **Current GPA:** `3.72`
 
 🏓 Member of the University Table Tennis Team
 
@@ -36,16 +36,16 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎮 [VR Multiplayer Golf Game](#) | A multiplayer VR golf experience using real-time data and sensors |
-| 📱 [OASIS Teledentistry App](#) | App for remote dental consultations |
-| 🖼️ [Grayscale Image Colorization](#) | Classical computer vision project |
-
+| 🎮 [VR Multiplayer Golf Game](https://github.com/janithkw/e20-3yp-VR-Multiplayer-Golf-Game) | A multiplayer VR golf experience using real-time data and sensors |
+| 📱 [OASIS Teledentistry App](https://github.com/Oral-Cavity-Research) | App for remote dental consultations |
+| 🖼️ [Grayscale Image Colorization](https://github.com/cepdnaclk/e20-co543-Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques) | Classical computer vision project |
+| ⚛ [Neuron Glow](https://github.com/cepdnaclk/e20-co543-Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques) | A tangible, hardware-based visualization tool that demonstrates how a perceptron updates its weights and makes decisions. |
 ---
 
 ## 🧠 Skills
 
-- 🐍 Python
-- 💻 C Programming
+- 🐍 Python / 💻 C Programming / C# Programming
+- Networking Fundamentals
 - 🗣️ Public Speaking
 - 🧑‍🤝‍🧑 Team Leadership
 

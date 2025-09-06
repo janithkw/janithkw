@@ -57,8 +57,8 @@
 ---
 ## 🛡️ TryHackMe Badge
 <p align="center">
-  <a href="https://tryhackme.com/p/5615174" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/5615174.png" alt="TryHackMe Badge">
+  <a href="https://tryhackme.com/p/janithkw">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/janithkw.png" alt="TryHackMe Badge for janithkw" />
   </a>
 </p>
 ---

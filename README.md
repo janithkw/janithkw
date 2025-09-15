@@ -17,8 +17,6 @@
 
 📊 **Current GPA:** `3.72`
 
-🏓 Member of the University Table Tennis Team
-
 📣 Passionate about **teaching**, **tech leadership**, and **building solutions that matter**.
 
 ---
@@ -28,7 +26,6 @@
 - 🧑‍🏫 **Casual Instructor**, University of Peradeniya (Feb 2024 - Oct 2024)
 - 👥 **Committee Member**, ACES - Association of Computer Engineering Students
 - 🌍 **Team Leader**, AIESEC in Sri Lanka
-- 🏓 **Table Tennis**, University Team Player
 
 ---
 

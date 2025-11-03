@@ -15,7 +15,7 @@
 
 🧠 Interested in **Artificial Intelligence**, **Machine Learning**, and **Cybersecurity**.
 
-📊 **Current GPA:** `3.72`
+📊 **Current GPA:** `3.78`
 
 📣 Passionate about **teaching**, **tech leadership**, and **building solutions that matter**.
 
@@ -60,6 +60,11 @@
 </p>
 ---
 
+## **Boot.dev** Progress
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/85c53ef0-2737-4da0-9590-c9fbbdc84a76/thumbnail" >
+</p>
+---
 ## 💬 Social & Contact
 
 📧 [e20420@eng.pdn.ac.lk](mailto:e20420@eng.pdn.ac.lk)  

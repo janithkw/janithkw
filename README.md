@@ -15,7 +15,7 @@
 
 🧠 Interested in **Artificial Intelligence**, **Machine Learning**, and **Cybersecurity**.
 
-📊 **Current GPA:** `3.78`
+📊 **Current GPA:** `3.81`
 
 📣 Passionate about **teaching**, **tech leadership**, and **building solutions that matter**.
 

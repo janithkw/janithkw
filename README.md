@@ -15,7 +15,7 @@
 
 🧠 Interested in **Artificial Intelligence**, **Machine Learning**, and **Cybersecurity**.
 
-📊 **Current GPA:** `3.81`
+📊 **Current GPA:** `3.83`
 
 📣 Passionate about **teaching**, **tech leadership**, and **building solutions that matter**.
 
@@ -75,18 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janithkw&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=janithkw&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithkw&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🔥 Fun Animations
 
